@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narayana Rao</h1>
 <h3 align="center">I'm a Data Analytics Engineering  Master's student at Northeastern University. I specialize in Cloud, Data Analytics & Visualization, Engineering with CI/CD/CL .</h3>
+<h3></h3> Welcome to my GitHub profile! I'm currently pursuing a Master's in Data Analytics Engineering at Northeastern University, specializing in Cloud, Data Analytics & Visualization, and Engineering with CI/CD/CL. I am passionate about leveraging cloud technologies and advanced analytics to drive data-driven decision-making and streamline engineering processes.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayana-3005&label=Profile%20views&color=0e75b6&style=flat" alt="narayana-3005" /> </p>
 
