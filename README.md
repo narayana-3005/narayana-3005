@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Narayana Rao</h1>
+<h3 align="center">I'm a Data Analytics Engineering  Master's student at Northeastern University. I specialize in Cloud, Data Analytics & Visualization, Engineering with CI/CD/CL .</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayana-3005&label=Profile%20views&color=0e75b6&style=flat" alt="narayana-3005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narayana-3005" alt="narayana-3005" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narayana-3005" alt="narayana-3005" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/narayana-3005/](https://github.com/narayana-3005/)
 
