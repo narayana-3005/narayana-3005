@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![Header](https://your-image-link-here)
 
-# 💻 DevOps | MLOps | Cloud Enthusiast | Data Analyst
+# 💻 DevOps | MLOps | Cloud| Data Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about all things DevOps, MLOps, and Cloud, with a deep interest in data analysis and visualization. I love exploring new technologies and applying my skills to solve real-world problems.
 
