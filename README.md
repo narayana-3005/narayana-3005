@@ -7,6 +7,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narayana-3005" alt="narayana-3005" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/narayana-3005/](https://github.com/narayana-3005/)
+- My Portfolio site: https://narayana-3005.github.io/W_site/
 
 - 📫 How to reach me **lingamaneni.n@northeastern.edu**
 
