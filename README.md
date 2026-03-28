@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<a href="https://www.linkedin.com/in/narayana-rao-lingamaneni" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Narayana Rao Lingamannei" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/narayanarl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Narayana Rao Lingamannei" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
